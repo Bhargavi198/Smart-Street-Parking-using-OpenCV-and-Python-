@@ -1,0 +1,2 @@
+# Smart-Street-Parking-using-OpenCV-and-Python-
+This project presents an image-processing based smart parking system developed for open parking lots and many more. The proposed system design through the Python and the OpenCV (Open Source Computer Vision) library utilizes the combined edge detection and coordinate bound pixel sections in deciding if a parking spot in the acquired footage is occupied or not. 
